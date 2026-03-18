@@ -1,0 +1,19 @@
+* {
+font-family: Trebuchet MS,;
+color: #01246a;
+}
+
+h1, .link-cv {
+    text-align: center;
+    color: #102a9cc4;
+}
+.job-title{
+    text-align: center;
+    font-style: italic;
+    color: #3b5ef9;
+}
+
+.work-exp, .edu, .skills {
+    color: #365F91;
+    text-decoration: underline;
+}
